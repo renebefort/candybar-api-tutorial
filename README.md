@@ -158,8 +158,8 @@ EchoAPI is a Visual Studio Code extension that allows you to send HTTP requests 
 
 - **How to use:**
   1. Install the EchoAPI extension from the VS Code marketplace.
-  2. Create a new file with the `.http` or `.rest` extension.
-  3. Write your HTTP requests in this file, for example:
+  2. Create for each Request a configuretion.
+  3. Write your HTTP requests, for example:
      ```
      GET http://127.0.0.1:8000/candybar
      ```
