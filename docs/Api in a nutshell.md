@@ -69,12 +69,13 @@
 
 ### HTTP Methods (aka Verbs)
 
-| Method   | Action               |
-| -------- | -------------------- |
-| `GET`    | Retrieve data        |
-| `POST`   | Create new data      |
-| `PUT`    | Update existing data |
-| `DELETE` | Remove data          |
+| Method   | Action                        |
+| -------- | ----------------------------- |
+| `GET`    | Retrieve data                 |
+| `POST`   | Create new data               |
+| `PUT`    | Update existing data (replace)|
+| `PATCH`  | Partially update existing data|
+| `DELETE` | Remove data                   |
 
 > **Note:** REST APIs are simple, open, and form the **foundation of modern web services**.
 
